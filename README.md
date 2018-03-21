@@ -1,7 +1,7 @@
-
+### idea from https://github.com/chenminghua/torrent-cli.git
 #### 源码安装
 ```
- $ git clone https://github.com/chenjiandongx/torrent-cli.git
+ $ git clone https://github.com/chenminghua/sso-cli.git
  $ cd tvsso-cli
  $ pip install -r requirements.txt
  $ python setup.py install
